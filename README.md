@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Vanessa 👩‍💻
 
-Atualmente curso o último período de **Análise e Desenvolvimento de Sistemas** e também faço o curso técnico de **Informática para Internet** pelo Senai. Estou sempre em busca de evolução profissional, ampliando meus conhecimentos em **desenvolvimento Front-end** e **análise de dados**.
+Atualmente curso o último período de **Análise e Desenvolvimento de Sistemas** e também faço o curso técnico de **Informática para Internet** pelo Senai. Estou sempre em busca de evolução profissional, ampliando meus conhecimentos em **desenvolvimento Front-end**.
 
 Em transição de carreira, estou aberta a oportunidades que me permitam aplicar na prática tudo o que venho aprendendo nos estudos e projetos.
 
